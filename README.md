@@ -9,13 +9,12 @@ I'm looking to graduate in the next 6 months, and am actively looking for career
 What I've enjoyed most throughout my PhD. was working on state of the art laser systems to generate pulses of light with extraordinary characteristics. We need very short, intense pulses of light to study fast processes. You can think of it like the exposure time on a camera; if you're exposure is too long motion gets blurred and you don't see what's happening. We also need intense pulses of light, because with a very short exposure you also need a very bright flash.
 
 I've also learned a lot about nanotechnlogy, and have been working at the front of this field for some years now. We look at tiny crystals of semiconductors to explore quantum size effects that only come up when the crystals are ~10nm in size or less. For more details on this you can look at these papers:
-- [Vibrations of nancrystals](
-- Optical gain from a two-component system
-- 
+- [Vibrations of nancrystals](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b11099)
+- [Optical gain from a two-component system](https://pubs.acs.org/doi/10.1021/acsphotonics.8b01033)
 
 Getting to the end of my thesis, our group has started looking at a very exciting system, perovskite nanocrystals. Perovskites exploded onto the scientific scene in 2012, when researchers developped a photovoltaic cell with notable solar power conversion efficiency. What's remarkable is that it's a relatively dissordered, solution-processed material. Most solar cells are inorganic crystals that need to be formed at high temperatures. These could drive the cost of manufacturing way down.
 Since this first publication materials scientists have found a lot of interesting physics going on in this material. Our expertise with more standard nanocrystals puts in a great place to examine perovskite nanocrystals, we have something to compare them to. We've specifically been looking at how the initial excitation of an electron makes the rest of the atoms move.  We have some evidence that this might lead to quantum confinement in a large crystal that should be too big to show quantum effects.
-- 
+- [Excited electron's effect on surrounding atoms](https://www.nature.com/articles/s41467-019-12830-1)
 
 
 ### CV

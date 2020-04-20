@@ -7,14 +7,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Testing stuff. _Testing Stuff in Italics_. `This is Code`.
+**Testing stuff in Bold**
+
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
-Testing stuff. _Testing Stuff in Italics_. `This is Code`
 ## Header 2
-**Testing stuff in Bold**
 ### Header 3
 
 - Bulleted

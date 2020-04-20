@@ -1,4 +1,4 @@
-![](Docs/WebsiteProfilePic.JPG){:height="700px" width="400px"}
+<img src=https://github.com/ColinSonnichsen/Profile/blob/master/Docs/WebsiteProfilePic.JPG height="350" width="200">
 # About Me
 I work in the [Kambhampati lab](http://www.kambhampati-group.mcgill.ca/) at McGill university. We use ultrafast lasers to study the fastest chemical reactions in nature, the motions of electrons.
 
@@ -37,4 +37,4 @@ I've been a year-round biker in Montreal for 2 and a half years now. I enjoy bre
 I also spend a few hours every week as a volunteer at the [Flat Bike Collective](https://www.facebook.com/TheFlatBikeCollective/), a group of people that enjoy cycling and want to help others build, maintain, and repair their own bikes. We sell parts, new and used, and help others to do their own bike repairs at a very low cost.
 
 #### Running
-I try to run 2-3 times a week as well, and have competed in half-marathon and marathons over the last few years. I can hold a decent pace, and enjoy the thrill of racing. Plus my dog has too much energy for an easy walk! ![My dog Larry](Docs/LarryPic){:height="350px" width="200px"}
+I try to run 2-3 times a week as well, and have competed in half-marathon and marathons over the last few years. I can hold a decent pace, and enjoy the thrill of racing. Plus my dog has too much energy for an easy walk! <img src=https://github.com/ColinSonnichsen/Profile/blob/master/Docs/LarryPic.JPG height="350" width="200">

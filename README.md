@@ -1,11 +1,15 @@
-## Welcome to GitHub Pages
+![](docs/ProfilePic)
+## About Me
+I work in the [Kambhampati lab](http://www.kambhampati-group.mcgill.ca/) at McGill university. We use ultrafast lasers to study the fastest chemical reactions in nature, the motions of electrons.
 
-You can use the [editor on GitHub](https://github.com/ColinSonnichsen/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm looking to graduate in the next 6 months, and am actively looking for career opportunities at this point. If you or your organization are hiring highly trained and qualified people, I might be the person you are looking for.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What I've enjoyed most throughout my PhD. work has been working with state of the art laser systems, and using these to generate pulses of light with extraordinary characteristics. We use either self-phase modulation in an [Ar-filled fiber](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-42-3-643) or a more traditional [optical parametric generation process]() for  producing 10fs pulses around 600nm. For more See our paper on this system[Seiler dazzlers].
 
-### Markdown
+I've also learned a lot about nanotechnlogy, and have been at the front of this field for some years now. We look at tiny crystals of semiconductors to explore the boundary between quantum and 
 
+### CV
+[Link to CV](CV link)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Testing stuff. _Testing Stuff in Italics_. `This is Code`.
 **Testing stuff in Bold**

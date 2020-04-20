@@ -1,8 +1,8 @@
-![](Docs/WebsiteProfilePic.JPG|width=100)
+![](Docs/WebsiteProfilePic.JPG){:height="700px" width="400px"}
 # About Me
 I work in the [Kambhampati lab](http://www.kambhampati-group.mcgill.ca/) at McGill university. We use ultrafast lasers to study the fastest chemical reactions in nature, the motions of electrons.
 
-I'm looking to graduate in the next 6 months, and am actively looking for career opportunities at this point. If you or your organization are hiring highly trained and qualified people, I might be the person you are looking for. To learn a little more about me, keep reading! If you just want my CV, download it [here](CV.pdf)
+I'm looking to graduate in the next 6 months, and am actively looking for career opportunities at this point. If you or your organization are hiring highly trained and qualified people, I might be the person you are looking for. To learn a little more about me, keep reading! If you just want my CV, you can find it [here](CV.pdf)
 
 
 # PhD. summary
@@ -27,10 +27,6 @@ Since this first publication materials scientists have found a lot of interestin
 ## Working with light
 We use either self-phase modulation in an [Ar-filled fiber](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-42-3-643) or a more traditional [optical parametric generation]() process for  producing 10fs pulses around 600nm. 
 
-For more See our paper on this system[Seiler dazzlers].
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ## Looking at Climate data
 With some of my free time I've looked at some climate data available from the government of Canada. I was a bit amazed at how much climate change denial I was hearing. Clearly, over the last several decades global average temperatures have been rising. Datasets such as HADCRUT show this very clearly, and there have been many good visualisations of this trend, including [knit scarves](https://en.wikipedia.org/wiki/The_Tempestry_Project)
 I was more curious as to whether or not global warming was visible if you zoomed in on a small region, or even a single weather station. For more info on this project, find it on my github profile.
@@ -41,6 +37,4 @@ I've been a year-round biker in Montreal for 2 and a half years now. I enjoy bre
 I also spend a few hours every week as a volunteer at the [Flat Bike Collective](https://www.facebook.com/TheFlatBikeCollective/), a group of people that enjoy cycling and want to help others build, maintain, and repair their own bikes. We sell parts, new and used, and help others to do their own bike repairs at a very low cost.
 
 #### Running
-I try to run 2-3 times a week as well, and have competed in half-marathon and marathons over the last few years. I can hold a decent pace, and enjoy the thrill of racing. Plus my dog has too much energy for an easy walk! ![My dog Larry](Docs/LarryPic)
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ColinSonnichsen/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I try to run 2-3 times a week as well, and have competed in half-marathon and marathons over the last few years. I can hold a decent pace, and enjoy the thrill of racing. Plus my dog has too much energy for an easy walk! ![My dog Larry](Docs/LarryPic){:height="350px" width="200px"}
